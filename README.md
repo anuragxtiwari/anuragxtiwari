@@ -3,7 +3,7 @@
 
 <img align="center" alt="coding" width="400" src="https://media1.tenor.com/images/ba6d7d37fa1e4ca966ac7328bf43b96c/tenor.gif?itemid=18657810">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragxtiwari&label=Profile%20views&color=0e75b6&style=flat" alt="anuragxtiwari" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=anuragxtiwari&label=Profile%20views&color=0e75b6&style=flat" alt="anuragxtiwari" /> </p>
 
 - 🔭 I’m currently pursuing **engineering in CS(AIML)**
 - 📈 Developing my skills in the field of technology
