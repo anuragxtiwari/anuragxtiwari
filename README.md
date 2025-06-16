@@ -14,7 +14,7 @@
 <a href="https://www.hackerrank.com/at4587776" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="at4587776" height="40" width="50" /></a>
 <a href="https://www.leetcode.com/at4587776" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="at4587776" height="40" width="50" /></a>
 <a href="https://auth.geeksforgeeks.org/user/at458rn4c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="at458rn4c" height="40" width="50" /></a>
-<a href="https://www.instagram.com/anuragxtiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anuragxtiwari" height="30" width="40" /></a>
+<a href="https://www.instagram.com/notyouranurag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anuragxtiwari" height="30" width="40" /></a>
 
 </p>
 
