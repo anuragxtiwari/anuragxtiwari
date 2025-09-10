@@ -30,16 +30,16 @@
 <h3>💻 Languages & Tools</h3>
 
 <p>
-  <img src="icon8-html.svg" alt="html" style="vertical-align:top; margin:4px">    
-  <img src="icon8-js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="icon8-python.svg" alt="python" style="vertical-align:top; margin:4px">
-  <img src="icon8-react-native.svg" alt="react" style="vertical-align:top; margin:4px">
+  <img src="icons8-html.svg" alt="html" style="vertical-align:top; margin:4px">    
+  <img src="icons8-js.svg" alt="js" style="vertical-align:top; margin:4px">
+  <img src="icons8-python.svg" alt="python" style="vertical-align:top; margin:4px">
+  <img src="icons8-react-native.svg" alt="react" style="vertical-align:top; margin:4px">
   <img src="c++.svg" alt="c/c++" style="vertical-align:top; margin:4px">
-  <img src="icon8-java.svg" alt="java" style="vertical-align:top; margin:4px">
-  <img src="icon8-mysql-logo.svg" alt="sql" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/firebase.svg" alt="firebase" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  <img src="icons8-java.svg" alt="java" style="vertical-align:top; margin:4px">
+  <img src="icons8-mysql-logo.svg" alt="sql" style="vertical-align:top; margin:4px">
+  <img src="icons8-google-firebase-console.svg" alt="firebase" style="vertical-align:top; margin:4px">
+  <img src="icons8-nodejs.svg" alt="nodejs" style="vertical-align:top; margin:4px">
+  <img src="icons8-visual-studio-code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 
 <h3>✨ What I Do</h3>
