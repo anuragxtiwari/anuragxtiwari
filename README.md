@@ -1,27 +1,63 @@
-<h1 style="font-family: cambria;" align="center">Hello, I'm Anurag Tiwari</h1>
-<h3 align="center">A passionate learner and developer from New Delhi, India</h3>
+<div align="center">
 
-<img align="center" alt="coding" width="350" src="https://media1.tenor.com/images/ba6d7d37fa1e4ca966ac7328bf43b96c/tenor.gif?itemid=18657810">
+<h1>Hi there, I'm <a href="https://anurag.codes">Anurag</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragxtiwari&label=Profile%20views&color=0e75b6&style=flat" alt="anuragxtiwari" /> </p>
-
-- 🔭 I’m currently pursuing **engineering in CS(AIML)**
-- 📈 Developing my skills in the field of technology
-- ✌🏻 Always ready to fight with problems
-<h3 align="center">Socials Accounts:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/anurag-tiwari-352226300" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anurag-tiwari-352226300" height="40" width="50" /></a>
-<a href="https://www.hackerrank.com/at4587776" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="at4587776" height="40" width="50" /></a>
-<a href="https://www.leetcode.com/at4587776" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="at4587776" height="40" width="50" /></a>
-<a href="https://auth.geeksforgeeks.org/user/at458rn4c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="at458rn4c" height="40" width="50" /></a>
-<a href="https://www.instagram.com/notyouranurag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anuragxtiwari" height="30" width="40" /></a>
-
+<p>Connect with me on  
+  <a href="https://www.linkedin.com/in/anurag-tiwari-352226300"><img height="30" src="/linked_logo.jpg"></a>  
 </p>
 
-<h3 align="center">Technologies I'm interested in:</h3>
-<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> </p>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
+👾 Artificial Intelligence | 💻 Aspiring Software Developer | 🛸 Delhi, India  
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragxtiwari&show_icons=true&locale=en&layout=compact" alt="anuragxtiwari" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuragxtiwari&show_icons=true&locale=en" alt="anuragxtiwari" /></p>
+<h5><i>⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</i></h5>
 
-<p><img  align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=anuragxtiwari&" alt="anuragxtiwari" /></p>
+<p>📍 21-year-old Computer Science student from Delhi</p>  
+<ul style="list-style-type:circle;">
+  <li>🔧 Advancing my logical skills</li>
+  <li>🤖 Diving deep into AI & ML</li>
+  <li>🌐 Check out my <a href="https://yourportfolio.com">Portfolio</a></li>
+</ul>
+
+<h4>Full Stack | Competitive Programming</h4>
+
+<p>
+  <a href="https://github.com/anuragxtiwari/github-readme-stats"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=anuragxtiwari&show_icons=true&theme=radical"/>
+  </a>
+</p>
+
+<h3>💻 Languages & Tools</h3>
+
+<p>
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/cplusplus.svg" alt="c/c++" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/java.svg" alt="java" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/sql.svg" alt="sql" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/firebase.svg" alt="firebase" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+</p>
+
+<h3>✨ What I Do</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
+</p>
+
+<h2>🤝 Support</h2>
+
+<p>🎀 Contributions (GitHub Flow), 🔥 issues, and 🥮 feature requests are most welcome!</p>
+
+<p>Made with ❤️ in India</p>
+
+<h1>⚡️<i>Stay awesome!</i>⚡️</h1>
+
+<p>
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Footer Animation"/>
+</p>
+
+</div>
