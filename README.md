@@ -3,7 +3,7 @@
 <h1>Hi there, I'm <a href="https://anurag.codes">Anurag</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 <p>Connect with me on  
-  <a href="https://www.linkedin.com/in/anurag-tiwari-352226300"><img height="30" src="/linked_logo.jpg"></a>  
+  <a href="https://www.linkedin.com/in/anurag-tiwari-352226300"><img height="30" src="linkedin.png"></a>  
 </p>
 
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
@@ -30,13 +30,13 @@
 <h3>💻 Languages & Tools</h3>
 
 <p>
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/cplusplus.svg" alt="c/c++" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/java.svg" alt="java" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/sql.svg" alt="sql" style="vertical-align:top; margin:4px">
+  <img src="icon8-html.svg" alt="html" style="vertical-align:top; margin:4px">    
+  <img src="icon8-js.svg" alt="js" style="vertical-align:top; margin:4px">
+  <img src="icon8-python.svg" alt="python" style="vertical-align:top; margin:4px">
+  <img src="icon8-react-native.svg" alt="react" style="vertical-align:top; margin:4px">
+  <img src="c++.svg" alt="c/c++" style="vertical-align:top; margin:4px">
+  <img src="icon8-java.svg" alt="java" style="vertical-align:top; margin:4px">
+  <img src="icon8-mysql-logo.svg" alt="sql" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/firebase.svg" alt="firebase" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
